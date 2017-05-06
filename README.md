@@ -11,6 +11,9 @@ Usage:
 2. For suffix: ‘python Scrabbler.py --suffix ab’
 3. For prefix: ‘python Scrabbler.py --prefix ab’
 
+To run the Unit tests:
+'python -m unittest tests'
+
 
 
 
